@@ -18,7 +18,7 @@ Debe crear una base de datos cuyo nombre será SEGUNDO_PARCIAL_25_06_2024_TEMAX 
 - En caso de que alguna exista, debe mostrar el siguiente mensaje: “La tabla que quiere crear ya existe” (sin las comillas) con un encabezado llamado Error.
 - Por cada tabla debe ingresar dos registros.
 
-![Diagrama entidad relacion](./examen%20parte%201%20tema%201.drawio.png)
+![Diagrama entidad relacion](./examen%20parte%201%20tema%201.jpg)
 
 ## Parte 2
 
